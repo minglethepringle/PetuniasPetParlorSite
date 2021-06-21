@@ -1,0 +1,26 @@
+/* General */
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+.serif {
+    font-family: "Caveat Brush";
+    font-size: 4rem;
+}
+
+/* Navbar */
+.navbar {
+    /* height: 100px; */
+    border-bottom: 2px solid #212121;
+}
+
+.nav-link.active {
+    color: #0dcaf0 !important;
+}
+
+/* Footer */
+footer {
+    /* height: 100px; */
+    border-top: 2px solid #212121;
+}
